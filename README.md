@@ -1,6 +1,6 @@
 # BlogDeCafé
 
-![banner](img\banner.jpg)
+![banner](banner.jpg)
 
 ## Proyecto Mobile-First Front-end
 
