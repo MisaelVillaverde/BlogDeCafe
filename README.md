@@ -1,6 +1,6 @@
 # BlogDeCafé
 
-![](D:\CodingProjects\UdemyHTML\proyecto2 - mobile first\img\banner.jpg)
+![](\img\banner.jpg)
 
 ## Proyecto Mobile-First Front-end
 
